@@ -1,0 +1,95 @@
+{
+    "header": {
+        "name": "ANH NGUYEN THE",
+        "job": "Software developer",
+        "location": "Ha Noi"
+    },
+    "body": {
+        "edu": {
+            "education": "EDUCATION",
+            "university": "VNU University of Engineering and Technology (VNU-UET)",
+            "majors": "Information Technology (Japanese Market-Oriented)",
+            "year": "4th year university student.",
+            "time": "2017/09 -  Now"
+       },
+        "ex": {
+            "experinece": "EXPERIENCE",
+            "company": "MISA Joint-stock company",
+            "position": "Interns",
+            "job": "A web developer intern in the summer of 2019." ,
+            "time": "2019/07 - 2019/10"
+        },
+        "ex2": {
+            "experinece": "EXPERIENCE",
+            "company": "TEKO VIET NAM COMPANY",
+            "position": "Staff",
+            "job": "I was in charge of the front end using React JS and implemented CI / CD in the front end system." ,
+            "time": "06/2020 - 02/2021"
+        },
+        "ac": {
+            "action": "ACTIVITIES",
+            "hr": {
+                "name": "HRTECH CLUB - VNU-UET",
+                "time": "2018/10 - 2019/10",
+                "position": "Member",
+                "job": "Communication board member"
+            },
+           "ja": {
+                "name": "JAPIT CLUB - VNU-UET"
+           },
+           "monitor": {
+                "name": "Class leader board K62-J VNU-UET University",
+                "time": "2017/09 - Now",
+                "job": "The monitor and Secretary"
+           }
+        },
+        "pri": {
+            "prize": "AWARDS",
+            "5-good": {
+                "name": "Student of 5 merits of VNU-UET University",
+                "time": "2019/11",
+                "organization": "VNU University of Engineering and Technology (VNU-UET)"
+            },
+            "collective": {
+                "name": "The certificate of merit has contributed to the collective work of the university.",
+                "time": "2019/09",
+                "organization": "Rector of VNU-UET University"
+            }
+        },
+        "product": {
+            "name": "PRODUCTS",
+            "kanji45" : {
+                "name":"KANJI45",
+                "time": "2020/06",
+                "pr": "Product introduction",
+                "application": "Mobile application about education"
+            },
+            "old-book": {
+                "name": "WEBSITE FOR OLD BOOKS",
+                "time": "2020/06",
+                "pr": "TA-BOOK",
+                "application": "Website"
+            },
+            "memrise": {
+                "name": "MEMRISE-UET",
+                "time": "2020/06",
+                "pr": "Product introduction",
+                "application": "Mobile application about education"
+            },
+            "tripiOne": {
+                "name": "TripiOne",
+                "time": "06/2020 - 02/2021",
+                "pr": "Product introduction",
+                "application": "A product of JSC Vietnam Tourism VNTRAVEL. The website allows company employees to book flights, hotels and manage orders according to their own budget, manage accounts that are allowed to book tickets, manage account balances, staff when booking. Tickets must be approved by the management company and successfully deducted from the company's total account balance: Web Portal."
+                
+            },
+            "tripi": {
+                "name": "TripiPartner",
+                "time": "06/2020 - 02/2021",
+                "pr": "Product introduction",
+                "application": "A product of JSC Vietnam Tourism VNTRAVEL. Website to book flights, hotels, tours, convenient and best."
+                
+            }
+        }
+    }
+}
