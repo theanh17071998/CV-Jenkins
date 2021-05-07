@@ -17,15 +17,13 @@
     "react-cv": "^1.1.0",
     "react-dom": "^16.13.1",
     "react-i18next": "^11.7.0",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --coverage --watchAll=false",
-    "eject": "react-scripts eject",
-    "login": "firebase login:ci",
-    "deploy-firebase": "firebase deploy --token=1//0gwzmGLgHcKb3CgYIARAAGBASNwF-L9IrnELBt5AnWa92ofkhskIbyeYHB8kPHNwZDZkuJ40HAndnNaHU6izFLgz3MXSgmB0HFCI"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
